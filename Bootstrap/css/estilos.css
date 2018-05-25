@@ -1,0 +1,58 @@
+.blogmusica-body{
+  background: #610b0b;
+  margin: 0;
+}
+.navbar-inverse{
+  margin-left: 9%;
+  width: 82%;
+  background: black;
+  min-height: 9%;
+}
+.navbar-inverse2{
+  margin-left: 9%;
+  width: 82%;
+
+}
+.jumbotron {
+  margin-top: 0px;
+  background: black;
+  border-radius: 0px !important;
+  margin-bottom: 0px;
+}
+.container-fluid{
+  width: 80%;
+}
+
+.musica-row{
+  background: #00678E;
+  margin-top: 20px;
+  min-height: 350px;
+  padding: 15px;
+}
+.musica-column{
+  margin-top: 5px;
+  background: #000000;
+  min-height: 900px;
+  border: 1px dashed #FFFFFF;
+  color: white;
+}
+.menu-column{
+  margin-top: 5px;
+  background: gray;
+  min-height: 40px;
+  padding: 10px;
+
+}
+.redes-sociales{
+  margin-top: 100px;
+  margin-right: 20px;
+  text-align: right;
+}
+.jumbotron-img{
+  width: 400px;
+  margin-top: 0;
+}
+.img-social{
+  width: 40px;
+  height: 40px;
+}
